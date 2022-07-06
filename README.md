@@ -2,7 +2,7 @@
 Federated Algorithms for Activity Recogntion
 
 
-This project contain 5 files
+This project contain 5 files.
 The “Readme.mb” file is for instructions on how to train the algorithms.
 The FeatureExtraction.ipynb is used for feature extraction. To train algorithm, features needs to be extracted from the raw sensor data. Use this file to extract feature from each of the dataset. 
 The GlobalTrain.ipynb is used for global model training. Different machine learning algorithms were trained using “Globaltrain” dataset. 
