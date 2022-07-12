@@ -1,7 +1,7 @@
 # FederatedActivityRecognition
 Federated Algorithms for Activity Recogntion
 
-Click [Here](https://figshare.com/s/04acd124d819605a0628) to download the dataset
+Click [Here](https://doi.org/10.22023/mdx.20243448) to download the dataset
 
 
 This project contain 5 files.
@@ -18,4 +18,4 @@ The "UseCase2.ipynb" is used for the second  scenario where  each participants  
 
 For each experiment, import the corresponding dataset, the globaltrain dataset and the TestData. Change the directory to suit you and run “FeatureExtraction.ipynb” firs to extract features. The extracted features are then used as input vector for the algorithms training. 
 
-Click [Here](https://figshare.com/s/04acd124d819605a0628) to download the dataset
+Click [Here](https://doi.org/10.22023/mdx.20243448) to download the dataset
