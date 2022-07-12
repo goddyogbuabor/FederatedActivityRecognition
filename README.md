@@ -6,7 +6,7 @@ Click [Here](https://figshare.com/s/04acd124d819605a0628) to download the datase
 
 This project contain 5 files.
 
-The “Readme.mb” file is for instructions on how to train the algorithms.
+The “Readme.mb” file is for instructions on how to run the project.
 
 The "FeatureExtraction.ipynb" is used for feature extraction. To train algorithm, features needs to be extracted from the raw sensor data. Use this file to extract feature from each of the dataset. 
 
